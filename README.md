@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Website cloner**
+- 🔭 I’m currently working on **Website cloner**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
