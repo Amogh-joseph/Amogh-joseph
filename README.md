@@ -61,7 +61,7 @@
 <br/>
 
 <a href="https://github.com/Amogh-joseph/github-readme-activity-graph"><img alt="Amogh-joseph's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amogh-joseph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-Alok
+
 <br/>
 <br/>
 
